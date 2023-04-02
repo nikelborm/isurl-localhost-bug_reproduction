@@ -1,0 +1,23 @@
+{
+  "name": "temp-isurl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikelborm/isurl-localhost-bug_reproduction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikelborm/isurl-localhost-bug_reproduction/issues"
+  },
+  "homepage": "https://github.com/nikelborm/isurl-localhost-bug_reproduction#readme",
+  "dependencies": {
+    "validator": "^13.9.0"
+  }
+}
